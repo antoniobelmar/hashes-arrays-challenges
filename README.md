@@ -28,7 +28,7 @@ Transform the following first hashes into the second entities:
 { a: 1, b: 2, c: 3 } => { "1"=>"a", "2"=>"b", "3"=>"c" }
 Challenge Set 3: Extracting information from hashes
 
-See the list of house prices by area. It contains a large hash.
+See the list of house prices by area (this is included in the solution). It contains a large hash.
 
 The keys of the hash are arrays of a district and a ward.
 The values of the hash are hashes with an average, and a list of all transactions.
